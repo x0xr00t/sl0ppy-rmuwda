@@ -22,4 +22,4 @@ Set-ExecutionPolicy Bypass
 * run the .ps1 file with ./rm-uwda.ps1
 
 * In case needed 
-Edit the code as needed for ur suitable wiches 
+Edit the code as needed for ur suitable wishes 
