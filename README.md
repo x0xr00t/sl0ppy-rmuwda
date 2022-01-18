@@ -23,3 +23,7 @@ Set-ExecutionPolicy Bypass
 
 * In case needed 
 Edit the code as needed for ur suitable wishes 
+
+{Side Note}
+
+This tool can brick ur windows, this means it can be that the updates aint working any more. 
