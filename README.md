@@ -19,7 +19,7 @@ It is a small ps1 script removing apps like
 `Set-ExecutionPolicy unrestricted`
 `Set-ExecutionPolicy Bypass`
 
-* run the .ps1 file with ./rm-uwda.ps1
+* run the .ps1 file with `./rm-uwda.ps1`
 
 * In case needed 
 Edit the code as needed for ur suitable wishes 
