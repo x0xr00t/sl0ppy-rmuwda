@@ -16,8 +16,8 @@ It is a small ps1 script removing apps like
 # usage 
 
 * set one of these 2 policy's 
-Set-ExecutionPolicy unrestricted
-Set-ExecutionPolicy Bypass
+`Set-ExecutionPolicy unrestricted`
+`Set-ExecutionPolicy Bypass`
 
 * run the .ps1 file with ./rm-uwda.ps1
 
